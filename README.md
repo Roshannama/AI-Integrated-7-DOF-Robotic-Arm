@@ -4,5 +4,6 @@ Designed and built a custom robotic arm with grippers for precise manipulation.
 Built the hardware system including structural frame, actuators, and basic control using microcontrollers (Arduino MEGA)
 Implement ROS and Gazebo
 Reinfocement Learning Trained
+ link for cad design https://a360.co/45Ui9X2
 
 
